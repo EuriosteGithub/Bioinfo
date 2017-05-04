@@ -1,6 +1,6 @@
 # Bioinfo
 
-An Adaboost model for functional SNVs.
+Adaboost based pre-computed genome-wide prediction scores for functional 5' UTR SNVs.
 
 Description of colums:
 
